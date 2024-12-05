@@ -8,7 +8,7 @@ translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 
 De Standaard voor Publieke Code is een set criteria die publieke organisaties ondersteunt bij het samen ontwikkelen en onderhouden van software en bijbehorend beleid.
 
-Iedereen die software of beleid ontwikkelt voor het algemeen belang kan deze standaard gebruiken om de kwaliteit van publieke diensten te verbeteren en deze efficienter te maken, met minder risico en meer controle.
+Iedereen die software of beleid ontwikkelt voor het algemeen belang kan deze standaard gebruiken om de kwaliteit van publieke diensten te verbeteren en deze efficiënter te maken, met minder risico en meer controle.
 
 Dit voorwoord introduceert het begrip “publieke code” en legt uit waarom dit belangrijk is.
 
@@ -16,7 +16,7 @@ Dit voorwoord introduceert het begrip “publieke code” en legt uit waarom dit
 
 Publieke code is zowel computercode (zoals software en algoritmes) als beleid dat in een publieke context wordt uitgevoerd, door mensen of machines.
 
-Het omvat de software die is gebouwd om te functioneren op of als publieke infrastructuur, maar ook de manier van voortbrenging daarvan.
+Het omvat de software die is gebouwd om te functioneren op of als publieke infrastructuur, evenals de afspraken omtrent het bouwen ervan. Afspraken die bijvoorbeeld kunnen gelden tijdens het bouwen van de software zijn: toegankelijkheids- en securitystandaarden.
 
 Publieke code moet worden onderscheiden van reguliere software omdat deze ontstaat en gebruikt wordt onder fundamenteel andere omstandigheden en verwachtingen.
 
@@ -59,7 +59,7 @@ Publieke code vormt de kern van moderne publieke instituties, bepaalt het werk v
 Publieke software moet daarom:
 
 - transparant zijn
-- te verantwoorden zijn
+- verantwoord kunnen worden
 - begrijpelijk zijn voor haar belanghebbenden
 
 Het moet de waarden van de samenleving die het dient weerspiegelen, bijvoorbeeld door inclusief te zijn en niet-discriminerend.
@@ -80,13 +80,15 @@ Wij beschouwen deze waarden als de kern van publieke code:
 
 ## Hoe publieke code werkt
 
-Publieke code is open source software bedoeld voor het vervullen van de kerntaken van publieke organisaties. Door gebruik dragen andere organisaties bij aan de software, zodat de ontwikkeling en het onderhoud ervan echte samenwerkingen worden.
+Publieke code is open source software bedoeld voor het vervullen van de kerntaken van publieke organisaties. Wanneer andere organisaties deze open source software gebruiken, krijgen ze de mogelijkheid om hier ook aan bij te dragen. Dit kan door middel van het aandragen van verbeteringen of het aangeven van bugs. Ook kan de organisatie zelf ontwikkelcapaciteit inhuren om features aan de software bij te dragen. Zo wordt de ontwikkeling en het onderhoud ervan een echte samenwerking.
 
 Open zijn heeft veel voordelen.
 
 Lokale verantwoordelijkheid en democratische verantwoording worden gewaarborgd wanneer een publieke organisatie hun eigen publieke code implementeert en onderhoudt. Door open te zijn en een bredere gemeenschap van ondersteunende ontwikkelaars te hebben, is de software veiliger. Open code profiteert van vele ogen die mogelijke fouten opsporen. Veel bijdragers delen het onderhoudswerk om het functioneel en modern te houden, wat lange termijn onderhoudbaarheid ten goede komt. De gedeelde werklast is nu en in de toekomst duurzamer. De openheid maakt zowel de code als de gegevens in de toekomst gemakkelijker aanpasbaar. De code wordt makkelijker te herzien, te hergebruiken en uit te faseren. Dit alles resulteert in infrastructuur met een lager risico.
 
-Door het bundelen van middelen kunnen publieke organisaties extra aandacht besteden aan hoe ze de software kunnen aanpassen zodat deze het beste werkt in elke lokale context, wat betere gebruikerservaringen creëert voor hun eindgebruikers (inwoners of burgers).
+Door de kosten te delen kunnen publieke organisaties extra aandacht besteden aan het aanpassen van software, zodat deze optimaal werkt in iedere lokale context, wat leidt tot betere gebruikerservaringen voor hun eindgebruikers (inwoners of burgers).
+
+Nog een bijkomend voordeel is dat doordat organisaties hun krachten bundelen, er meer tijd vrij gemaakt kan worden voor het verbeteren van de kwaliteit van de software. Een mooi voorbeeld hiervan is https://nldesignsystem.nl/. Binnen dit project werken UX-designers en developers samen aan hoogwaardige ui-components die uiteindelijk door de hele overheid heen gebruikt kunnen worden.
 
 ### Economie van publieke code
 

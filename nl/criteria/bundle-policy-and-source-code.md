@@ -8,9 +8,9 @@ description: Zo is het gemakkelijker om te begrijpen hoe de code werkt en waarom
 
 # Bundel beleid en broncode
 
-Toegang tot zowel de [broncode](../glossary.html#broncode) als het [beleid](../glossary.html#beleid) biedt bouwstenen voor iedereen om de codebase te implementeren in hun lokale context of om bij te dragen aan de verdere ontwikkeling van de [codebase](../glossary.html#codebase).
+Toegang tot zowel de [broncode](../glossary.html#broncode) als het [beleid](../glossary.html#beleid) biedt de bouwstenen waarmee iedereen de codebase kan implementeren in hun lokale context of kan bijdragen aan de verdere ontwikkeling van de [codebase](../glossary.html#codebase).
 
-Inzicht in het domein en het beleid binnen dat domein is fundamenteel om te begrijpen welke problemen een codebase probeert op te lossen en hoe de codebase die probeert op te lossen.
+Inzicht in het domein en het beleid binnen dat domein is fundamenteel om te begrijpen welke problemen een codebase probeert op te lossen en en op welke manier de codebase dat doet.
 
 Om te kunnen evalueren of een codebase in een nieuwe context kan worden toegepast, moet een organisatie begrijpen welke proceswijzigingen daarvoor nodig zijn of hoe ze extra configureerbaarheid aan de bestaande oplossing kan toevoegen om deze aan de nieuwe context aan te passen.
 

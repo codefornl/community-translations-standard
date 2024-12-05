@@ -8,9 +8,9 @@ translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 
 De Standaard voor Publieke Code is een set criteria die publieke organisaties ondersteunt bij het samen ontwikkelen en onderhouden van software en bijbehorend beleid.
 
-De Standaard voor Publieke Code is een leidraad voor publieke organisaties die willen samenwerken aan open source-oplossingen met soortgelijke organisaties elders. Het bevat adviezen voor beleidsmakers, managers, ontwikkelaars en ontwerpers. De Standaard voor Publieke Code ondersteunt het in samenwerking ontwikkelen van codebases die open, herbruikbaar, leesbaar, te verantwoorden, toegankelijk en duurzaam zijn. Het is bedoeld om toepasbaar te zijn op codebases van publieke organisaties op alle niveaus - van supranationaal tot gemeentelijk.
+De Standaard voor Publieke Code is een leidraad voor publieke organisaties die willen samenwerken aan open source-oplossingen met soortgelijke organisaties elders. Het bevat adviezen voor beleidsmakers, managers, ontwikkelaars en ontwerpers. De Standaard voor Publieke Code ondersteunt bij het gezamenlijk ontwikkelen van codebases die open, herbruikbaar, leesbaar, te verantwoorden, toegankelijk en duurzaam zijn. De standaard is toepasbaar op codebases van publieke organisaties op alle niveaus - van supranationaal tot gemeentelijk.
 
-De Standaard voor Publieke Code definieert '[publieke code](glossary.html#publieke-code)' als open source software ontwikkeld door publieke organisaties, samen met het beleid en de richtlijnen die nodig zijn voor samenwerking en hergebruik.
+De Standaard voor Publieke Code beschrijft '[publieke code](glossary.html#publieke-code)' als open source software ontwikkeld door publieke organisaties, samen met het beleid en de richtlijnen die nodig zijn voor samenwerking en hergebruik.
 
 De criteria van de Standaard voor Publieke Code zijn afgestemd op richtlijnen en _best practices_ in open source software-ontwikkeling.
 
