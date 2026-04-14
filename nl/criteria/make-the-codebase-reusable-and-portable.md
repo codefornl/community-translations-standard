@@ -36,7 +36,7 @@ Broncode die niet afhankelijk is van de infrastructuur van een specifieke ontwik
 
 - Codebase-modules ZOUDEN zodanig gedocumenteerd MOETEN zijn dat hergebruik in codebases in andere contexten mogelijk is.
 
-- De software MAG GEEN diensten of platformen vereisen die slechts door één leverancier worden geleverd.
+- De software ZOU GEEN diensten of platformen MOETEN vereisen die slechts door één leverancier worden geleverd.
 
 ## Hoe te testen
 
